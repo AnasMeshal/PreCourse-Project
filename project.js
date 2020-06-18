@@ -199,7 +199,7 @@ function reverseString(string) {
 // console.log(characterCount("Character Count is clever", "c"));
 // console.log(differences([11, 35, 52, 14, 56]));
 // console.log(largestIncrement([11, 35, 52, 14, 56, 601, 777, 888, 999]));
- console.log(afterX([1, 2, 3, 4, 5, 6, 7, 8, 9], 3));
+// console.log(afterX([1, 2, 3, 4, 5, 6, 7, 8, 9], 3));
 // console.log(abbreviate("miss", "Stephane"));
 // console.log(isUpperCase("JCREW"));
 // console.log(elementInArray([5, 6, 7], 6));

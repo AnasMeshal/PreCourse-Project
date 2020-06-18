@@ -41,7 +41,7 @@ function noZeroes(numberString) {
 // while (numberString.startsWith("0")) numberString = numberString.slice(0);
 // return numberString;
 
- console.log(generateIntegersArray(3, 7));
+// console.log(generateIntegersArray(3, 7));
 //console.log(noZeroes("001100"));
 module.exports = {
   generateIntegersArray,
