@@ -115,7 +115,7 @@ function largestIncrement(numbers) {
 function afterX(numbers, x) {
   for (let i = 0; i < numbers.length; i++) {
     if (numbers[i] === x) {
-      return numbers.slice(x);
+      return numbers.slice(i + 1);
     }
   }
   
